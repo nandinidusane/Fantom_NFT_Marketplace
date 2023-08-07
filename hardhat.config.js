@@ -8,7 +8,7 @@ module.exports = {
  networks: {
    hardhat: {},
    rsk_testnet: {
-    url: "https://filecoin-calibration.chainup.net/rpc/v1",
+    url: "https://rpc.testnet.fantom.network",
     accounts: [`a93c2fab9cb3eb0a4ae12b80fda2a5e7bc51a229f7936dae41461e6a06dd632a`],
     chainId: 31
   }
